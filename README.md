@@ -1,7 +1,5 @@
 ### Hi there, I'm Sakthi Rathinam - aka [sakthi] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
 ## I'm a Full Stack Developer,Freelancer, and Devops!!
 
 - 🌱 I’m currently learning everything 🤣
@@ -13,7 +11,6 @@
 
 [<img align="left" alt="sakthi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/sakthi-rathinam-635310200/]
 [<img align="left" alt="sakthi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/neymar__100_/]
-[<img align="left" alt="sakthi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
 
 <br />
 
