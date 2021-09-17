@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Developer,Freelancer, and Devops!!
 
-- 🌱 I’m currently learning everything that is somehow related to backend🤣
+- 🌱 I’m currently learning everything that is somehow related to backend 
 - 👯 I’m looking to collaborate in projects that was out of my comfort zone
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 🔭 I currently working on uportal: [Product Launching Soon!][check]!
