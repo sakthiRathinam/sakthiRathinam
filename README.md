@@ -1,4 +1,4 @@
-### Hi there, I'm Sakthi Rathinam - aka [sakthi] 👋
+### Hi there, I'm Sakthi Engineer - aka [sakthi] 👋
 
 ## I'm a Full Stack Developer,Freelancer, and Devops!!
 
