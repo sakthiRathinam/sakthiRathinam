@@ -1,6 +1,6 @@
 ### Hi there, I'm Sakthi Engineer - aka [sakthi] 👋
 
-## I'm a Full Stack Developer,Freelancer, and Devops!!
+## I'm a Full Stack Engineer,Freelancer, and Devops!!
 
 - 🌱 I’m currently learning everything that is somehow related to backend 
 - 👯 I’m looking to collaborate in projects that was out of my comfort zone
