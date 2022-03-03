@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything that is somehow related to backend 
 - 👯 I’m looking to collaborate in projects that was out of my comfort zone
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 🔭 I currently working on my own project clinto: [Product Launching Soon!][check]!
 
 ### Connect with me:
