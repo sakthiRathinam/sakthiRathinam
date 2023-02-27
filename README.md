@@ -3,9 +3,8 @@
 ## I'm a Full Stack Engineer,Freelancer, and Devops!!
 
 - 🌱 I’m currently learning everything that is somehow related to backend 
-- 👯 I’m looking to collaborate in projects that was out of my comfort zone
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- 🔭 I currently working on my own project clinto: [Product Launching Soon!][check]!
+- 👯 I’m looking to collaborate in projects that is out of my comfort zone
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
