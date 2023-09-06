@@ -6,13 +6,6 @@
 - 👯 I’m looking to collaborate in projects that is out of my comfort zone
 - 🥅 2023 Goals: Contribute more to Open Source projects
 
-### Connect with me:
-
-
-[<img align="left" alt="sakthi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/neymar__100_/]
-
-<br />
-
 ## 🛠️ Technologies and Tools
 
 ### Programming Languages
