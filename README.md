@@ -1,6 +1,6 @@
 ### Hi there, I'm Rathinam Sakthi R 👋
 
-## I'm a Full Stack Engineer,Freelancer, and Devops!!
+## I'm a Software engineer and SRE!!
 
 - 🌱 I’m currently learning everything that is somehow related to backend 
 - 👯 I’m looking to collaborate in projects that is out of my comfort zone
